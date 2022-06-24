@@ -34,4 +34,4 @@ import com.scoperetail.simurai.core.SimuraiCoreConfig;
 @Configuration
 @EnableConfigurationProperties
 @Import({SimuraiCoreConfig.class})
-public class SimuraiConfig {}
+public class SimuraiOrchestratorConfig {}
