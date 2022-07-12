@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.scoperetail.simurai</groupId>
 	<artifactId>simurai-orchestrator</artifactId>
-	<version>0.2-SNAPSHOT</version>
+	<version>0.2</version>
 	<name>${project.artifactId}</name>
 	<description>Simurai orchestrator</description>
 	<url>https://github.com/fusion-oss/${project.artifactId}</url>
@@ -25,7 +25,7 @@
 		<developerConnection>
             scm:git:git@github.com:fusion-oss/${project.artifactId}.git
         </developerConnection>
-		<tag>HEAD</tag>
+		<tag>simurai-orchestrator-0.2</tag>
 		<url>https://github.com/fusion-oss/${project.artifactId}</url>
 	</scm>
 
